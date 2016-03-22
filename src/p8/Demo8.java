@@ -33,7 +33,7 @@ public class Demo8 extends Application{
     private HBox getHBox() {
         HBox hBox = new HBox(15);
         hBox.setPadding(new Insets(10, 10, 10, 10));
-        hBox.setStyle("-fx-background-color: gold");
+        hBox.setStyle("-fx-background-color: #8CA336");
         Button btn1 = new Button("One");
         Button btn2 = new Button("Two");
         Button btn3 = new Button("Three");
@@ -46,7 +46,7 @@ public class Demo8 extends Application{
     private VBox getVBox() {
         VBox vBox = new VBox(15);
         vBox.setPadding(new Insets(10, 10, 10, 10));
-        vBox.setStyle("-fx-background-color: cyan");
+        vBox.setStyle("-fx-background-color: #AA8439");
 
         vBox.getChildren().add(new Label("Courses"));
 
