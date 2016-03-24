@@ -11,7 +11,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-public class Demo2 extends Application{
+public class ButtonInPane extends Application{
 
     @Override
     public void start(Stage primaryStage) throws Exception {

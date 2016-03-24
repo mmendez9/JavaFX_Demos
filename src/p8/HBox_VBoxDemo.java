@@ -14,7 +14,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class Demo8 extends Application{
+public class HBox_VBoxDemo extends Application{
     @Override
     public void start(Stage primaryStage) throws Exception {
         BorderPane pane = new BorderPane();

@@ -15,7 +15,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-public class Demo6 extends Application{
+public class GridPaneDemo extends Application{
     @Override
     public void start(Stage primaryStage) throws Exception {
         GridPane pane = new GridPane();

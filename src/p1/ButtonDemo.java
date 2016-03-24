@@ -11,7 +11,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
-public class Demo1 extends Application {
+public class ButtonDemo extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {

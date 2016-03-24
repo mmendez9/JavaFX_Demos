@@ -13,7 +13,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-public class Demo7 extends Application{
+public class BorderPaneDemo extends Application{
     @Override
     public void start(Stage primaryStage) throws Exception {
         BorderPane pane = new BorderPane();

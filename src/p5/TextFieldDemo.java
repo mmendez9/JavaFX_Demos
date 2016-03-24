@@ -13,7 +13,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
-public class Demo5 extends Application {
+public class TextFieldDemo extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         FlowPane pane = new FlowPane();
